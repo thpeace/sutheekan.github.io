@@ -1,2 +1,2 @@
 # sutheekan.github.io
-This repository is website for Sutheekan Ratanawatkul Profile
+This repository is website for Profile
